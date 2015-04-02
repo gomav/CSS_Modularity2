@@ -1,1 +1,107 @@
 /* ADD YOUR STYLES HERE */
+
+.squares img{
+  padding-left: 55px;
+  display: inline-block;
+  margin-left: 5px;
+}
+
+.mainelements {
+  display: inline-block;
+  margin-left: 35px;
+}
+
+.square2 {
+  /*padding-left: 150px;*/
+  top: 390px;
+  position: absolute;
+  float: left
+  width: 160px;
+  height: 160px;
+  margin-left: 175px;
+}
+
+.hellotext {
+  top: 390px;
+  position: absolute;
+  float: 350px;
+  width: 80px;
+  height: 20px;
+  margin-left: 375px;
+}
+
+.square3 {
+  top: 390px;
+  position: absolute;
+  float: 350px;
+  width: 80px;
+  height: 80px;
+  margin-left: 475px;
+}
+
+.list {
+  top: 390px;
+  position: absolute;
+  float: 350px;
+  width: 60px;
+  height: 50px;
+  margin-left: 575px;
+}
+
+.verticalpad {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+.verticalpad2 {
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+
+#ready ul{
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
+#ready ul li {
+  display: inline;
+}
+
+#buy {
+  width: 25%;
+  line-height: 55px;
+  font-size: 26px;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  background: red;
+}
+
+#learn {
+  position: absolute;
+  top: 1935px;
+  margin-left: 200px;
+  width: 10%;
+  line-height: 20px;
+  font-size: 16px;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  vertical-align: middle;
+  background: red;
+}
+
+#ok {
+  position: absolute;
+  top: 1938px;
+  vertical-align: middle;
+  margin-left: 375px;
+  width: 2%;
+  line-height: 10px;
+  font-size: 12px;
+  color: white;
+  border-radius: 5px;
+  text-align: center;
+  background: red;
+}
